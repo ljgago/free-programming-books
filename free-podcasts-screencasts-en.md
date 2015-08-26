@@ -2,9 +2,12 @@
 * [Android](#android)
 * [Angular JS](#angularjs)
 * [CSS](#css)
+* [Elixir](#elixir)
 * [Emacs](#emacs)
-* [Language Agnostic](#language-agnostic)
+* [Erlang](#erlang)
 * [Javascript](#javascript)
+* [Language Agnostic](#language-agnostic)
+* [Node.js](#Nodejs)
 * [PHP](#php)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -19,8 +22,19 @@
 ### CSS
 * [Screencast] - [CSS-Tricks Screencasts](http://css-tricks.com/video-screencasts/)
 
+### Elixir
+* [Screencast] - [ElixirConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT)
+* [Screencast] - [ElixirConf 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2jBXpr1IjyUgJ7hNS1eTf7H)
+* [Screencast] - [Elixir Sips](http://elixirsips.com/) - Some free
+* [Screencast] = [Intro to Elixir](https://www.youtube.com/watch?v=lly-1UYmnFI&list=PLn76XROGFNtE9InImlu6e8isbOsM7qKtt)
+
 ### Emacs
 * [Screencast] - [Emacs Rocks!](http://emacsrocks.com/)
+
+### Erlang
+* [Screencast] - [Erlang Factory SF Bay 2015](https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ)
+* [Screencast] - [Thinking like an Erlanger](https://www.youtube.com/watch?v=6sBL1kHoMoo)
+* [Screencast] - [Functions + Messages + Concurrency = Erlang](http://www.infoq.com/presentations/joe-armstrong-erlang-qcon08)
 
 ### Javascript
 * [Screencast] - [Free Quality Javascript video tutorials and screencasts](http://screencasts.org/topics/javascript)
@@ -31,14 +45,26 @@
 
 ### Language Agnostic
 * [Podcast] - [Full Stack Radio](http://fullstackradio.com/)
+* [Podcast] - [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing)
+* [Podcast] - [Programming Throwdown](http://www.programmingthrowdown.com/)
+* [Podcast] - [Software Engineering Radio](http://www.se-radio.net/)
+* [Podcast] - [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet)
+
+### Node.js
+* [Podcast] - [Node.js Screencast Series - Tutsowl](http://www.tutsowl.com/)
 
 ### PHP
 * [Podcast] - [PHP Town Hall](http://phptownhall.com/)
 * [Podcast] - [Voices of the ElePHPant](http://voicesoftheelephpant.com/)
+* [Podcast] - [PHP Roundtable](https://www.phproundtable.com/)
+* [Podcast] - [Sound of Symfony](http://www.soundofsymfony.com/)
+* [Podcast] - [MageTalk - A Magento Podcast](http://magetalk.com/)
 
 ### Python
 * [Screencast] - [Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)
+* [Podcast] - [Podcast.__init__](http://podcastinit.com/)
 * [Screencast] - [ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)
+* [Podcast] - [Talk Python To Me - A podcast on Python and related technologies](http://www.talkpythontome.com/)
 * [Screencast] - [TheNewBoston - Pygame (Python Game Development) Playlist](http://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq)
 * [Screencast] - [TheNewBoston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 * [Screencast] - [TheNewBoston - Python GUI with Tkinter Playlist](http://www.youtube.com/playlist?list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)

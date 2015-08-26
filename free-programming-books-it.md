@@ -55,6 +55,7 @@
 
 ### Java
 * [Introduzione a Java](http://www.ateneonline.it/hyperbook/j_book/java2.htm)
+* [Java - Wikibooks](https://it.wikibooks.org/wiki/Java)
 * [Object Oriented && Java 5 (II Edizione) - Claudio De Sio Cesari](http://www.claudiodesio.com/download/oo_&&_java_5.zip)
 
 
@@ -67,6 +68,7 @@
 * [Introduzione all'arte della composizione tipografica con LaTeX - GuIT](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf)
 * [L'arte di scrivere con LaTeX - L. Pantieri e T. Gordini](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf)
 * [Una (mica tanto) breve introduzione a LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/italian)
+* [Impara LaTeX! (... e mettilo da parte) - Marc Baudoin](https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf)
 
 
 ### Linux

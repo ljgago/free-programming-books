@@ -25,8 +25,8 @@
     * [Metapost](#metapost)
     * [PGF/TikZ](#pgftikz)
     * [TeX](#tex)
-* [Lua](#lua)
 * [Lisp](#lisp)
+* [Lua](#lua)
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
@@ -68,6 +68,7 @@
 
 #### Pédagogie pour enfants et adolescents
 
+* [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
 * [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole), par Tim Bell, Ian H. Witten et Mike Fellows (traduit)
 
 
@@ -94,7 +95,6 @@
 ### C / C++
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) par Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/6-le-c-en-20-heures/), par Eric Berthomier et Daniel Schang
-* [Introduction à la rétro-ingénierie de binaires](http://progdupeu.pl/articles/45/introduction-a-la-retro-ingenierie-de-binaires), à partir de code C compilé pour x86.
 
 
 ### Coq
@@ -108,11 +108,10 @@
 
 ### Git
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) par Alexandre Garel, Paul Gaborit et Nicolas Deram
-* [Pro Git](http://www.git-scm.com/book/fr) par Scott Chacon
+* [Pro Git](http://www.git-scm.com/book/fr/v2) par Scott Chacon et Ben Straub
 
 
 ### Java
-* [Initiation à la programmation (en Java)](https://www.coursera.org/course/intro-java-fr), MOOC de l'École Polytechnique Fédérale de Lausanne
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Play.Rules!](http://3monkeys.github.io/play.rules/)
 
@@ -126,9 +125,8 @@
 
 
 ### Haskell
-* [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr/)
 * [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) par Paul Hudak, John Peterson et Joseph Fasel
-
+* [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr/)
 
 ### (La)TeX et associés
 
@@ -143,28 +141,28 @@ les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du 
 * [Asymptote. Démarrage rapide](http://cgmaths.fr/cgFiles/Dem_Rapide.pdf), par Christophe Grospellier
 
 #### Metapost
-* [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf), par John D. Hobby
 * [Tracer des graphes avec Metapost](http://melusine.eu.org/syracuse/metapost/f-mpgraph.pdf), par John D. Hobby
+* [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf), par John D. Hobby
 
 #### PGF/TikZ
 * [TikZ pour l'impatient](http://math.et.info.free.fr/TikZ/), par Gérard Tisseau et Jacques Duma
 
 #### TeX
 
-* [TeX pour l'Impatient](ftp://tug.org/tex/impatient/fr/fbook.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
+* [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf), par Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche
+
+### Lisp
+* [Introduction à la programmation en Common Lisp](http://www.algo.be/logo1/lisp/intro-lisp.pdf) par Francis Leboutte
+* [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) par Robert Strandh et Irène Durand
 
 ###Lua
 
 * [Introduction à la programmation Lua](http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html)
 * [Lua : le tutoriel](http://wxlua.developpez.com/tutoriels/lua/general/cours-complet/), par Claude Urban
 
-
-### Lisp
-* [Introduction à la programmation en Common Lisp](http://www.algo.be/logo1/lisp/intro-lisp.pdf) par Francis Leboutte
-* [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) par Robert Strandh et Irène Durand
-
 ### Meteor
 * [Apprendre Meteor](http://mquandalle.gitbooks.io/apprendre-meteor/), par Maxime Quandalle
+* [Discover Meteor](http://fr.discovermeteor.com/), par Tom Coleman et Sacha Greif
 
 ### Perl
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html), par Sylvain Lhullier

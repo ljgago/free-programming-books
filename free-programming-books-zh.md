@@ -19,6 +19,7 @@
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [LISP](#lisp)
+* [Lua](#lua)
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
 * [Perl](#perl)
@@ -155,6 +156,10 @@
 * [Common Lisp 高级编程技术](http://www.ituring.com.cn/minibook/862) (《On Lisp》中文版)
 
 
+### Lua
+* [Lua 5.3 参考手册](http://www.w3cschool.cc/manual/lua53doc/contents.html)
+
+
 ### Markdown
 * [Markdown 快速入门](http://wowubuntu.com/markdown/basic.html)
 * [Markdown 简明教程](http://jianshu.io/p/7bd23251da0a)
@@ -164,7 +169,8 @@
 
 ### Node.js
 * [Node 入门](http://www.nodebeginner.org/index-zh-cn.html)
-* [The NodeJS 中文](https://www.gitbook.io/book/0532/nodejs)
+* [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details)（社区翻译）
+* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/) 阿里出品，很好的入门资料
 
 
 ### Perl
@@ -179,6 +185,7 @@
 * [PHP5中文手册](http://php.net/manual/zh/)
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/preface.md)
 * [Symfony2 实例教程](http://wusuopu.gitbooks.io/symfony2_tutorial/content)
+* [PHP 之道](http://wulijun.github.io/php-the-right-way/)
 
 
 ### Python
@@ -214,6 +221,7 @@
 ### Scala
 * [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)
 * [Scala 课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+* [Scala 初学者指南](https://www.gitbook.com/book/windor/beginners-guide-to-scala/details) (The Neophyte's Guide to Scala)
 
 
 ### Scheme
@@ -233,6 +241,7 @@
 
 ### Vim
 * [大家來學 VIM](http://www.study-area.org/tips/vim/index.html)
+* [Vim Manual(中文版)](http://man.chinaunix.net/newsoft/vi/doc/help.html)
 
 
 ### Visual Prolog
